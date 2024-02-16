@@ -285,12 +285,14 @@ footer section {
     }
     header a {
         margin-top: 15px;
+        font-size: 10px;
     }
     section aside h1 {
         font-size: 2.3rem;
     }
     .medium section .box {
         flex-direction: column;
+        padding: 24px;
     }
     section .image {
         width: 361px;
